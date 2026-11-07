@@ -1,0 +1,11 @@
+node_modules/
+dist/
+data/
+.env
+*.log
+coverage/
+.npm-cache/
+
+# Datos privados del PM (backups y tareas de otros proyectos)
+pm/backups/
+pm/tareas/
